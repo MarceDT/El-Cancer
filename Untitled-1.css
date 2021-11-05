@@ -1,0 +1,225 @@
+body {
+ background-image: url("https://nibbot.com.mx/wp-content/uploads/2019/11/3D-immune-system-t-cells-health-shutterstock-775583896-1068x601.jpg");
+ background-size: cover; 
+ background-repeat: no-repeat;
+ 
+}
+header{
+    padding: 0px 0px 0px 0px;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.6;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 130%;
+    padding: 0px 0px 0px 20px;
+    width: 23%;
+    position: relative;
+    left: 1000px; 
+    z-index: 1;
+
+}
+#menu > li {display: inline-block;}
+p{
+
+float: left;
+background-color: rgb(176, 195, 231);
+opacity: 0.9;
+position: relative;
+left: 0px;
+right: 0px;
+}
+.titulo1{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 35%;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    }
+.texto1{
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+}
+.titulo2{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 35%;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+}
+.texto2{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7;
+}
+.titulo3{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 35%;
+}
+.texto3{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7;
+}
+.titulo4{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 45%;
+}
+.texto4{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7;
+}
+.marcadeagua{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(78, 130, 228);
+    opacity: 0.8;
+    padding: 0px 0px 10px 200px;
+    border-style: double; 
+}
+.TCA{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 20%;
+}
+.TCA2{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7; 
+}
+.TCA3{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7; 
+}
+.TCA4{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 40%;
+}
+.TCA5{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7; 
+}
+.TCA6{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 40%;
+}
+.TCA7{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7; 
+}
+.TCA8{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 40%;
+}
+.TCA9{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7; 
+}
+.TCA10{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 22%;
+}
+.TCA11{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7; 
+}
+.TAA1{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 18%;
+}
+
+.TAA2{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7;
+}
+.TAA3{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 25%;
+}
+.TAA4{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7;
+}
+.TAA5{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    width: 40%; 
+}
+.TAA6{
+    padding-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7;
+}
