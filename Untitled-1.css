@@ -1,0 +1,69 @@
+body {
+ background-image: url("https://nibbot.com.mx/wp-content/uploads/2019/11/3D-immune-system-t-cells-health-shutterstock-775583896-1068x601.jpg");
+ background-size: cover; 
+ background-repeat: no-repeat;
+ 
+}
+header{
+    padding: 0px 0px 0px 0px;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.6;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 130%;
+    padding: 0px 0px 0px 20px;
+    width: 23%;
+    position: relative;
+    left: 1000px; 
+    z-index: 1;
+
+}
+#menu > li {display: inline-block;}
+p{
+
+float: left;
+background-color: rgb(176, 195, 231);
+opacity: 0.9;
+position: relative;
+left: 0px;
+right: 0px;
+}
+.titulo{
+    padding-left: 60px;
+    max-width: 1000px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 45%;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.8;
+    }
+.texto{
+    background-color: rgb(176, 195, 231);
+    opacity: 0.7;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double ;
+}
+.marcadeagua{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(78, 130, 228);
+    opacity: 0.8;
+    padding: 0px 0px 10px 200px;
+    border-style: double; 
+}
+
+@media (max-width:800px){
+.header{
+    left: auto;
+    padding: auto;
+    border-style: dotted;
+    background-color: rgb(176, 195, 231);
+    opacity: 0.6;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 130%;
+    width: 50%;
+    position:relative
+}
+
+
+}
